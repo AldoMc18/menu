@@ -16,5 +16,8 @@ public class operaciones {
     public int resta(int a,int b){
         return a-b;
     }
+    public int producto(int a,int b){
+        return a*b;
+    }
     
 }
